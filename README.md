@@ -1,1 +1,1 @@
-# Project23-EpicArchery2
+# project-c23-template
